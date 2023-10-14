@@ -1,4 +1,4 @@
-# Analytics-of-Megaline-tariffs
+# The project was completed as part of training in Yandex.Practicum
 
 # Описание проекта
 
